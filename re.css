@@ -1,0 +1,28 @@
+.main{
+    background-color: antiquewhite;
+
+}
+.re
+{
+    background-color: black;
+    color: aqua;
+    border: 1px solid black;
+}
+.t1, th, td
+{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.t1, th, td{
+    background-color: #96d4d4;
+}
+.img1
+{
+    width: 20%;
+    height: auto;
+}
+.info
+{
+    margin-top: -99px;
+    margin-left: 20%;
+}
